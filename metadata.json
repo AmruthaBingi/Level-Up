@@ -1,0 +1,5 @@
+{
+  "name": "Copy of LevelUp: Career Skill Tree",
+  "description": "LevelUp is a gamified career roadmap builder. It uses Gemini AI to generate interactive skill trees for any career path, featuring XP tracking, prerequisite-based unlocking, and curated learning resources to turn professional growth into an RPG adventure.",
+  "requestFramePermissions": []
+}
